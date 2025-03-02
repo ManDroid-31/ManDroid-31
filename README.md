@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Multiplayer game<br>👯 I’m looking to collaborate on OpenSource<br>🤝 I’m looking for help with Job<br>🌱 I’m currently learning Development<br>💬 Ask me anything about Javascript<br>⚡ Fun fact I am MERN still I prefer vanilla JS and Postgres
 
 
 ## 🌐 Socials:
